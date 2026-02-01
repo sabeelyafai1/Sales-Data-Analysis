@@ -5,7 +5,7 @@ This project applies **data analytics techniques to the sales domain** with the 
 
 The analysis demonstrates how structured sales data can be transformed into **actionable insights** using analytical methods, reports, and visual dashboards.
 
----
+
 
 ## 🎯 Business Objective
 - Analyze sales data to identify performance trends
