@@ -33,7 +33,7 @@ The analysis demonstrates how structured sales data can be transformed into **ac
 - Business-focused interpretations of data findings
 
 ### 💻 Code Files
-- Scripts used for data processing and analysis (if applicable)
+- Scripts used for data processing and analysis
 - Reproducible analytical workflows
 
 ### 📚 Documentation
@@ -45,24 +45,10 @@ The analysis demonstrates how structured sales data can be transformed into **ac
 - KPI tracking and comparisons
 - Visual summaries for stakeholder communication
 
----
-
-## 🎥 Project Walkthrough Video
-▶️ **Watch here:** https://youtu.be/LOPnZclka0o
-
----
-
 ## 🚀 Key Outcomes
 - Identified sales trends and performance patterns
 - Highlighted areas for improvement in sales strategy
 - Demonstrated practical application of analytics in real business scenarios
-
----
-
-## 🤝 How to Contribute
-- ⭐ Star the repository if you find it useful
-- 💬 Leave a comment with your feedback or questions
-- 🔁 Share the project with others who may benefit from it
 
 ---
 
